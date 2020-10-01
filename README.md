@@ -1,2 +1,2 @@
 # Machine-Learning
-My collection of ML notebooks
+My collection of Machine Learning notebooks.
